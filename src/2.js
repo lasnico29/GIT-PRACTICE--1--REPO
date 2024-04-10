@@ -1,1 +1,2 @@
-"/* My File edition */"
+<
+"/***** My new Master File Edition without conflicts*********/"
