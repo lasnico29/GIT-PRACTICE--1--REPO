@@ -1,1 +1,1 @@
-"/* My File two */"
+"/***** My new Master File Edition *********/"
